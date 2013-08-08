@@ -6,50 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.256805,
-                    34.438061,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "aéroport international du Kansai (Osaka)",
-                "styleUrl": "#style40",
-                "styleHash": "3a5934ac",
-                "description": "<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-osaka&amp;image=IMG_4697&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-osaka%252F&amp;image=IMG_4697.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.495544,
-                    34.701717,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "gare d'Osaka et hôtel Granvia Osaka",
-                "styleUrl": "#style57",
-                "styleHash": "24df4846",
-                "description": "<DIV>3-1-1 Umeda, Kita-ku, Osaka 530-0001</DIV>\n<DIV>TEL +81-6-6344-1235</DIV>\n<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-osaka&amp;image=IMG_4663&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-osaka%252F&amp;image=IMG_4663.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.526489,
-                    34.687111,
-                    0
+                    135.5258202,
+                    34.6868148
                 ]
             },
             "properties": {
                 "name": "château d'Osaka",
-                "styleUrl": "#style35",
-                "styleHash": "5aca086",
-                "description": "<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-osaka&amp;image=IMG_3623&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-osaka%252F&amp;image=IMG_3623.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004258422626962\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-4O-HKsKcbyI/SJEnqyhJGpI/AAAAAAAACPA/t0kCD0DFdpY/s400/IMG_3623.jpg\" alt=\"IMG_3623.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 13, 2008, 9:49 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004258422626962\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -57,32 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.501938,
-                    34.663853,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "gare Namba",
-                "styleUrl": "#style42",
-                "styleHash": "352c9ea"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.498032,
-                    34.669151,
-                    0
+                    135.4980339,
+                    34.6691611
                 ]
             },
             "properties": {
                 "name": "Rose Lips love hotel",
-                "styleUrl": "#style48",
-                "styleHash": "5e3f89a4",
-                "description": "<div><a href=\"http://www.roselips.co.jp/shi/rp.html\" target=\"_blank\">Rose Lips - Shinsaibashi</a></div>\n<div>&nbsp;</div>\n<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-osaka&amp;image=IMG_3631&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-osaka%252F&amp;image=IMG_3631.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004293146263666\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-UqpUpZGAGtE/SJEnsz35wHI/AAAAAAAACPI/JRnC4mfszC0/s400/IMG_3631.jpg\" alt=\"IMG_3631.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 14, 2008, 12:26 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004293146263666\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -90,16 +34,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.500931,
-                    34.668705,
-                    0
+                    135.5014255,
+                    34.6687728
                 ]
             },
             "properties": {
-                "name": "rue Dotonbori",
-                "styleUrl": "#style6",
-                "styleHash": "4a270d1c",
-                "description": "<DIV><IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-osaka&amp;image=IMG_3639&amp;size=mini\"> \n<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-osaka&amp;image=IMG_3643&amp;size=mini\"> \n</DIV>\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-osaka%252F&amp;image=IMG_3639.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-osaka%252F&amp;image=IMG_3643.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "name": "rue Dotonbori: crabe de la chaîne de restaurants Kani Doraku (construit en 1960).",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004332396860690\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-m-igrIb7mds/SJEnvGF-VRI/AAAAAAAACPQ/61q_IW8C6Ts/s400/IMG_3639.jpg\" alt=\"IMG_3639.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 14, 2008, 12:41 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004332396860690\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -107,16 +48,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.778839,
-                    35.010567,
-                    0
+                    135.5034184,
+                    34.6687276
                 ]
             },
             "properties": {
-                "name": "appartement Rohji",
-                "styleUrl": "#style79",
-                "styleHash": "4411f006",
-                "description": "<DIV>520 Higashimonzen-cho, Sakyo-ku, Kyoto</DIV>\n<DIV>nord-est du carrefour de HIGASHIYAMA-SANJO</DIV>\n<DIV>Shigenori Shibata portable:080-1520-5281</DIV>\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.vivrelejapon.net/maison-cms/fr/location-de-maisons/kyoto-rohji/la-maison/\" target=\"_blank\">Vivre le Japon - Rohji</A></DIV>\n<DIV>&nbsp;</DIV>\n<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3935&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3935.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "name": "rue Dotonbori: mascotte de la compagnie alimentaire Glico, fabricant des Pocky !!! (en reproduction à l'échelle humaine; l'enseigne originale en néon a été construite en 1919).",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004367921344610\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-LnDVUeub7ec/SJEnxKbq8GI/AAAAAAAACPY/WPl-UswgGqQ/s400/IMG_3643.jpg\" alt=\"IMG_3643.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 14, 2008, 12:47 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004367921344610\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -124,32 +62,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.778931,
-                    35.009167,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "rue couverte commerciale Furukawacho",
-                "styleUrl": "#style11",
-                "styleHash": "1d806388"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.779312,
-                    35.007759,
-                    0
+                    135.7792004,
+                    35.0076434
                 ]
             },
             "properties": {
                 "name": "canal Takasegawa",
-                "styleUrl": "#style19",
-                "styleHash": "4166b880",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3651&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3651.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004425204638914\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-7ct0qNYdwJc/SJEn0f1EpMI/AAAAAAAACPg/Vx14vw5Wwgw/s400/IMG_3651.jpg\" alt=\"IMG_3651.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 15, 2008, 3:18 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004425204638914\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -157,16 +76,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.78244,
-                    35.01585,
-                    0
+                    135.7824432,
+                    35.015899
                 ]
             },
             "properties": {
                 "name": "sanctuaire Heian",
-                "styleUrl": "#style36",
-                "styleHash": "6a296b25",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3663&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3663.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004461549687602\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-PKKk9LTAv8o/SJEn2nOaEzI/AAAAAAAACPo/BSdkOnapUAE/s400/IMG_3663.jpg\" alt=\"IMG_3663.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 15, 2008, 11:05 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004461549687602\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -174,16 +90,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.783066,
-                    35.007874,
-                    0
+                    135.7830816,
+                    35.0078895
                 ]
             },
             "properties": {
                 "name": "temple Shoren-in",
-                "styleUrl": "#style33",
-                "styleHash": "3cb30b48",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3722&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3722.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004514754319122\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-sgwhjudcpSY/SJEn5tbYUxI/AAAAAAAACP0/YeIWb3WwVyo/s400/IMG_3722.jpg\" alt=\"IMG_3722.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 16, 2008, 2:44 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004514754319122\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -191,16 +104,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.782944,
-                    35.004761,
-                    0
+                    135.7829341,
+                    35.0047654
                 ]
             },
             "properties": {
                 "name": "temple Chion-in",
-                "styleUrl": "#style63",
-                "styleHash": "-41f758f5",
-                "description": "<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3729&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3729.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004545545391122\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-XluxKxS_TCw/SJEn7gIizBI/AAAAAAAACP8/NKRwfSIdJv0/s400/IMG_3729.jpg\" alt=\"IMG_3729.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 16, 2008, 2:59 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004545545391122\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -208,16 +118,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.780487,
-                    35.003635,
-                    0
+                    135.7804584,
+                    35.0036581
                 ]
             },
             "properties": {
                 "name": "parc Maruyama",
-                "styleUrl": "#style70",
-                "styleHash": "-44512f91",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3738&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3738.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004603445750066\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-Rd_EPaHE0SM/SJEn-31EKTI/AAAAAAAACQE/ZwvswYMZnjc/s400/IMG_3738.jpg\" alt=\"IMG_3738.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 16, 2008, 3:44 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004603445750066\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -225,16 +132,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.778351,
-                    35.003353,
-                    0
+                    135.7783985,
+                    35.0033417
                 ]
             },
             "properties": {
                 "name": "sanctuaire Yasaka",
-                "styleUrl": "#style38",
-                "styleHash": "33230063",
-                "description": "<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3746&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3746.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004645559508530\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-NGvKswsA3kQ/SJEoBUtxHjI/AAAAAAAACQM/W_Hyh-j9psQ/s400/IMG_3746.jpg\" alt=\"IMG_3746.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 16, 2008, 3:50 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004645559508530\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -242,16 +146,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.774872,
-                    35.002754,
-                    0
+                    135.7748848,
+                    35.0027595
                 ]
             },
             "properties": {
-                "name": "rue    Hanamikoji dori du quartier Gion",
-                "styleUrl": "#style72",
-                "styleHash": "-7b579a53",
-                "description": "<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3758&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3758.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>"
+                "name": "rue Hanamikoji dori du quartier Gion",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004682098493986\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-uG0sGAgqGh4/SJEoDc1VyiI/AAAAAAAACQU/--aXsrDz4CQ/s400/IMG_3758.jpg\" alt=\"IMG_3758.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 16, 2008, 4:09 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004682098493986\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -259,16 +160,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.77446,
-                    35.005707,
-                    0
+                    135.7744503,
+                    35.0057057
                 ]
             },
             "properties": {
                 "name": "sanctuaireTatsumi",
-                "styleUrl": "#style47",
-                "styleHash": "-63d40fb",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3762&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3762.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004724912224402\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-N5jf6KenzDE/SJEoF8U7eJI/AAAAAAAACQc/-PU48zJzO2A/s400/IMG_3762.jpg\" alt=\"IMG_3762.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 16, 2008, 4:36 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004724912224402\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -276,32 +174,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.768616,
-                    35.008804,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "rue couverte commerciale Sanjo",
-                "styleUrl": "#style54",
-                "styleHash": "-8971797"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.784302,
-                    34.994904,
-                    0
+                    135.7843583,
+                    34.9949112
                 ]
             },
             "properties": {
                 "name": "temple Kiyomizu-dera",
-                "styleUrl": "#style13",
-                "styleHash": "-1986073a",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3800&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3800.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004768492007074\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-5SgtTv0M4dY/SJEoIerKLqI/AAAAAAAACQk/xJ_nrZZ_KqY/s400/IMG_3800.jpg\" alt=\"IMG_3800.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 16, 2008, 11:43 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004768492007074\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -309,16 +188,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.781616,
-                    34.999989,
-                    0
+                    135.781601,
+                    34.9999999
                 ]
             },
             "properties": {
                 "name": "temple Ryozen Kannon",
-                "styleUrl": "#style16",
-                "styleHash": "13f058a3",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3820&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3820.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004795809996562\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-LssPjAjGj8A/SJEoKEcRnxI/AAAAAAAACQw/eUDLZ91rWXY/s400/IMG_3820.jpg\" alt=\"IMG_3820.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 17, 2008, 12:30 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004795809996562\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -326,16 +202,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.781006,
-                    35.000854,
-                    0
+                    135.7810163,
+                    35.0008568
                 ]
             },
             "properties": {
                 "name": "temple Kodai-ji",
-                "styleUrl": "#style3",
-                "styleHash": "1cb0ad3f",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3834&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3834.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004843474243218\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-uH6tBc_1GVg/SJEoM2AUTpI/AAAAAAAACQ4/vCLfrJq92qU/s400/IMG_3834.jpg\" alt=\"IMG_3834.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 17, 2008, 12:57 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004843474243218\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -343,16 +216,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.771072,
-                    35.00806,
-                    0
+                    135.7710599,
+                    35.008063
                 ]
             },
             "properties": {
-                "name": "théatre Pontocho Kaburenjo",
-                "styleUrl": "#style23",
-                "styleHash": "11968207",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3856&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3856.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "name": "Pontocho, vu de la terrasse du théatre Pontocho Kaburenjo",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004882815953058\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-HUFdzeESJFk/SJEoPIkHKKI/AAAAAAAACRA/K49qCon4TZ4/s400/IMG_3856.jpg\" alt=\"IMG_3856.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 17, 2008, 2:39 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004882815953058\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -360,16 +230,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.770401,
-                    35.007732,
-                    0
+                    135.7704055,
+                    35.0077796
                 ]
             },
             "properties": {
                 "name": "canal Takase-gawa",
-                "styleUrl": "#style20",
-                "styleHash": "-1bdfddd6",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3863&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3863.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004940125094594\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-Js4mvp8_xms/SJEoSeDrQsI/AAAAAAAACRI/QWNRQcvn81s/s400/IMG_3863.jpg\" alt=\"IMG_3863.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 17, 2008, 4:36 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004940125094594\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -377,32 +244,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.768921,
-                    35.00351,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Takashimaya department store",
-                "styleUrl": "#style78",
-                "styleHash": "-206ada99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.771774,
-                    34.987835,
-                    0
+                    135.77165,
+                    34.9879961
                 ]
             },
             "properties": {
                 "name": "temple Sanjusangen-do",
-                "styleUrl": "#style5",
-                "styleHash": "-1a55bd83",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3874&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3874.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004976331374482\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-bT-fkSCxq7w/SJEoUk77P5I/AAAAAAAACRQ/mIQVduBIHCM/s400/IMG_3874.jpg\" alt=\"IMG_3874.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 17, 2008, 11:37 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229004976331374482\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -410,16 +258,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.772339,
-                    34.990047,
-                    0
+                    135.7723689,
+                    34.9900529
                 ]
             },
             "properties": {
                 "name": "musée national de Kyoto",
-                "styleUrl": "#style31",
-                "styleHash": "73b9760a",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3893&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3893.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005010772465506\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-aoyX0t1NyV0/SJEoWlPUl2I/AAAAAAAAGSs/t9fxW35Z1ng/s400/IMG_3893.jpg\" alt=\"IMG_3893.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 17, 2008, 11:59 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005010772465506\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -427,16 +272,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.773712,
-                    34.976673,
-                    0
+                    135.7737314,
+                    34.9766784
                 ]
             },
             "properties": {
                 "name": "temple Tofuku-ji",
-                "styleUrl": "#style76",
-                "styleHash": "169b9029",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3896&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3896.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005057340516562\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-W3kUAAxWnDw/SJEoZSuAqNI/AAAAAAAACRg/QkSmRrzBtmw/s400/IMG_3896.jpg\" alt=\"IMG_3896.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 18, 2008, 1:18 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005057340516562\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -444,16 +286,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.773346,
-                    35.028023,
-                    0
+                    135.7788383,
+                    35.0105675
                 ]
             },
             "properties": {
-                "name": "appartement Demachi",
-                "styleUrl": "#style29",
-                "styleHash": "6c8341c1",
-                "description": "<div>43 Shimoyanagi-cho, Tanaka, Sakyo-ku, Kyoto</div>\n<div>Est du Kyoto Computer</div>\n<div>Shigenori Shibata portable:080-1520-5281</div>\n<div>&nbsp;</div>\n<div><a href=\"http://www.vivrelejapon.net/maison-cms/fr/location-de-maisons/kyoto-demachi/la-maison/\" target=\"_blank\">Vivre le Japon - Demachi</a></div>\n<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4179&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4179.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>"
+                "name": "appartement Rohji",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005098273705938\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-A_XzjiZ5uSA/SJEobrNPj9I/AAAAAAAACRs/PFgdgTkwl84/s400/IMG_3935.jpg\" alt=\"IMG_3935.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 18, 2008, 9:15 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005098273705938\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -461,16 +300,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.768127,
-                    35.011414,
-                    0
+                    135.7793076,
+                    35.0094794
+                ]
+            },
+            "properties": {
+                "name": "plan du métro de Kyoto",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229381640393791538\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-3IM-63sEpGM/SJJ-5T6fGDI/AAAAAAAACfY/5-UaI-UL1RQ/s400/IMG_3941.jpg\" alt=\"IMG_3941.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 18, 2008, 9:21 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229381640393791538\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.768198,
+                    35.0114286
                 ]
             },
             "properties": {
                 "name": "hôtel de ville de Kyoto",
-                "styleUrl": "#style30",
-                "styleHash": "f3cab6b",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3949&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3949.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005132632888114\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-5s3lxKGXFgo/SJEodrNHEzI/AAAAAAAACR0/l_xXOBW9dBc/s400/IMG_3949.jpg\" alt=\"IMG_3949.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 19, 2008, 11:00 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005132632888114\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -478,16 +328,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.759338,
-                    35.011673,
-                    0
+                    135.7593172,
+                    35.0116154
                 ]
             },
             "properties": {
                 "name": "musée international du manga de Kyoto",
-                "styleUrl": "#style66",
-                "styleHash": "-1480f918",
-                "description": "<div><a href=\"http://www.kyotomm.com/english/index.html\" target=\"_blank\">Musée International du Manga de Kyoto</a></div>\n<div>&nbsp;</div>\n<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3950&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3950.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005170380749954\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/--lT1G114dMs/SJEof305vII/AAAAAAAACR8/uWp4MIfAUeg/s400/IMG_3950.jpg\" alt=\"IMG_3950.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 19, 2008, 11:15 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005170380749954\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -495,50 +342,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.758728,
-                    34.98613,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "gare de Kyoto",
-                "styleUrl": "#style39",
-                "styleHash": "-686034fe",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3970&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3970.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.759186,
-                    34.987572,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "tour de Kyoto",
-                "styleUrl": "#style51",
-                "styleHash": "-360d7774",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3976&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3976.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.759903,
-                    34.98616,
-                    0
+                    135.7597196,
+                    34.9861018
                 ]
             },
             "properties": {
                 "name": "boutique Kyoto Tezuka",
-                "styleUrl": "#style46",
-                "styleHash": "-6aba0b9a",
-                "description": "<DIV><IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3957&amp;size=mini\">\n<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3961&amp;size=mini\">\n</DIV>\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3957.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3961.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005205056588418\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-SWJR6C9GfwA/SJEoh5ARCoI/AAAAAAAACSE/aovJ4fPu-oo/s400/IMG_3957.jpg\" alt=\"IMG_3957.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 20, 2008, 2:06 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005205056588418\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -546,15 +356,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.731354,
-                    35.04306,
-                    0
+                    135.7597196,
+                    34.9861018
                 ]
             },
             "properties": {
-                "name": "Hidari Daimonji",
-                "styleUrl": "#style75",
-                "styleHash": "-4de13a76"
+                "name": "boutique Kyoto Tezuka",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375480032538642\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-FieJmfBqpMc/SJJ5Sux6MBI/AAAAAAAACcc/dms2I1T7mI8/s400/IMG_3961.jpg\" alt=\"IMG_3961.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 20, 2008, 3:58 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375480032538642\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -562,16 +370,41 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.728561,
-                    35.039566,
-                    0
+                    135.7586681,
+                    34.986137
+                ]
+            },
+            "properties": {
+                "name": "gare de Kyoto",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005234663997218\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-eNguzZrb7g0/SJEojnTOPyI/AAAAAAAACSM/Z139kVpGWyc/s400/IMG_3970.jpg\" alt=\"IMG_3970.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 20, 2008, 4:17 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005234663997218\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7591938,
+                    34.9875873
+                ]
+            },
+            "properties": {
+                "name": "tour de Kyoto",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005266925649874\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-P79ITS6f4ZI/SJEolfe__9I/AAAAAAAACSU/YdFvYnsNgo4/s400/IMG_3976.jpg\" alt=\"IMG_3976.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 20, 2008, 6:22 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005266925649874\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7285684,
+                    35.0395278
                 ]
             },
             "properties": {
                 "name": "temple Kinkaku-ji (temple du Pavillon d'or)",
-                "styleUrl": "#style43",
-                "styleHash": "67cf9489",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_3987&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_3987.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005303989342402\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-bdgtgTkNA4Q/SJEonpjrEMI/AAAAAAAACSc/juqOEGdY9Pk/s400/IMG_3987.jpg\" alt=\"IMG_3987.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 20, 2008, 11:24 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005303989342402\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -579,16 +412,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.71843,
-                    35.034134,
-                    0
+                    135.7184135,
+                    35.0341561
                 ]
             },
             "properties": {
-                "name": "temple Ryoan-ji (temple du repos du dragon) ",
-                "styleUrl": "#style61",
-                "styleHash": "-af0ee33",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4025&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4025.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "name": "temple Ryoan-ji (temple du repos du dragon)",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005351989854562\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-9r0Pk5WbFfQ/SJEoqcX4wWI/AAAAAAAACSk/z0ZB30CiRv8/s400/IMG_4025.jpg\" alt=\"IMG_4025.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 21, 2008, 1:01 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005351989854562\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -596,16 +426,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.745392,
-                    35.042088,
-                    0
+                    135.7453724,
+                    35.042084
                 ]
             },
             "properties": {
-                "name": "jardin Zuiho-in du temple Daitoku-ji ",
-                "styleUrl": "#style52",
-                "styleHash": "2e6f532b",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4035&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4035.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "name": "jardin Zuiho-in du temple Daitoku-ji",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005407515016114\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-lTn8PG-hFpE/SJEotrOHe7I/AAAAAAAACSw/5Pq6YxQgJt4/s400/IMG_4035.jpg\" alt=\"IMG_4035.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 21, 2008, 2:09 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005407515016114\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -613,15 +440,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.767166,
-                    35.010437,
-                    0
+                    135.6808626,
+                    35.0186449
                 ]
             },
             "properties": {
-                "name": "rue couverte commerciale Teramachi - extrémité Nord",
-                "styleUrl": "#style34",
-                "styleHash": "-5ed02a19"
+                "name": "réplique d'époque d'un train dans la gare Torokko Saga du \"train romantique\" longeant la rivière Hozu-gawa",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375530631018786\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-e1hLMG-i8lg/SJJ5VrRhuSI/AAAAAAAACcs/kremm17Jaqc/s400/IMG_4059.jpg\" alt=\"IMG_4059.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 22, 2008, 12:04 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375530631018786\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -629,66 +454,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.767151,
-                    35.007301,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "rue couverte commerciale Teramachi - place centrale",
-                "styleUrl": "#style1",
-                "styleHash": "53b71801"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.766861,
-                    35.003902,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "rue couverte commerciale Teramachi - extrémité Sud",
-                "styleUrl": "#style44",
-                "styleHash": "-33b3a0d8",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4643&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4643.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.680588,
-                    35.018574,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "gare Torokko Saga du \"train romantique\" longeant la rivière Hozu-gawa",
-                "styleUrl": "#style17",
-                "styleHash": "786d2342",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4059&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4059.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.670517,
-                    35.016983,
-                    0
+                    135.6707882,
+                    35.0171424
                 ]
             },
             "properties": {
                 "name": "gare Torokko Arashiyama du \"train romantique\" longeant la rivière Hozu-gawa",
-                "styleUrl": "#style69",
-                "styleHash": "18f566c5",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4064&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4064.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375501943218386\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-4T2DSjgYguI/SJJ5UAZ0oNI/AAAAAAAACck/hwVxcCpU3kA/s400/IMG_4064.jpg\" alt=\"IMG_4064.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 22, 2008, 12:58 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375501943218386\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -696,16 +468,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.646103,
-                    35.025928,
-                    0
+                    135.6461441,
+                    35.0260253
                 ]
             },
             "properties": {
                 "name": "gare Torokko Hozukyo du \"train romantique\" longeant la rivière Hozu-gawa",
-                "styleUrl": "#style9",
-                "styleHash": "779d6cf9",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-pompom&amp;image=IMG_4079&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-pompom%252F&amp;image=IMG_4079.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375561361198114\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-grGEnf0PukA/SJJ5XdwLDCI/AAAAAAAACc0/cEM9d9Wc0VQ/s400/IMG_4079.jpg\" alt=\"IMG_4079.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 22, 2008, 1:09 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375561361198114\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -713,16 +482,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.60759,
-                    35.013538,
-                    0
+                    135.6227445,
+                    35.0191369
+                ]
+            },
+            "properties": {
+                "name": "ballade en \"train romantique\" longeant la rivière Hozu-gawa",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005450093826178\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-PlJHzPTQUY0/SJEowJ1skII/AAAAAAAACS4/p7fb_h6CwCA/s400/IMG_4089.jpg\" alt=\"IMG_4089.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 22, 2008, 1:14 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005450093826178\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6071448,
+                    35.0133289
                 ]
             },
             "properties": {
                 "name": "gare Torokko Kameoka du \"train romantique\" longeant la rivière Hozu-gawa",
-                "styleUrl": "#style55",
-                "styleHash": "5be5b308",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-pompom&amp;image=IMG_4102&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-pompom%252F&amp;image=IMG_4102.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375584217736546\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-5DGBeeYzWmw/SJJ5Yy5mJWI/AAAAAAAACc8/4xNh7w9Up-c/s400/IMG_4102.jpg\" alt=\"IMG_4102.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 22, 2008, 1:22 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229375584217736546\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -730,16 +510,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.677887,
-                    35.012905,
-                    0
+                    135.6778907,
+                    35.0129247
                 ]
             },
             "properties": {
                 "name": "pont Togetsukyo (Pont qui traverse la lune)",
-                "styleUrl": "#style32",
-                "styleHash": "-27c9bf57",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4135&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4135.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005521460982178\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-rXR42gBUnw0/SJEo0Ts88aI/AAAAAAAACTI/4nrpIZgrQ-g/s400/IMG_4135.jpg\" alt=\"IMG_4135.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 22, 2008, 2:19 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005521460982178\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -747,15 +524,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.671402,
-                    35.016659,
-                    0
+                    135.6714749,
+                    35.0167645
                 ]
             },
             "properties": {
-                "name": "forêt de bambou du quartier Arashiyama - portion Est",
-                "styleUrl": "#style2",
-                "styleHash": "-47cc1d60"
+                "name": "forêt de bambou du quartier Arashiyama",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005576128372626\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-DpS18XZZ8Vo/SJEo3fWrH5I/AAAAAAAACTQ/mac1Q0rLCzQ/s400/IMG_4161.jpg\" alt=\"IMG_4161.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 22, 2008, 3:15 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005576128372626\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -763,16 +538,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.674667,
-                    35.017361,
-                    0
+                    135.7733398,
+                    35.0280503
                 ]
             },
             "properties": {
-                "name": "forêt de bambou du quartier Arashiyama - portion Ouest",
-                "styleUrl": "#style18",
-                "styleHash": "-2316121f",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4161&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4161.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "name": "appartement Demachi",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005608619700290\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-8H--YeKjrMI/SJEo5YZNcEI/AAAAAAAACTY/WGdpDtusZgs/s400/IMG_4179.jpg\" alt=\"IMG_4179.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 22, 2008, 9:50 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005608619700290\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -780,16 +552,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.79361,
-                    35.027138,
-                    0
+                    135.7936495,
+                    35.0271762
                 ]
             },
             "properties": {
                 "name": "jardin Hakusasonso",
-                "styleUrl": "#style50",
-                "styleHash": "6575bded",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4197&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4197.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005669832423506\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-rEKQkT3UOQY/SJEo88bdeFI/AAAAAAAACTg/NmQaC3RRZgw/s400/IMG_4197.jpg\" alt=\"IMG_4197.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 12:43 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005669832423506\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -797,16 +566,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.798141,
-                    35.026646,
-                    0
+                    135.7981288,
+                    35.0266578
                 ]
             },
             "properties": {
-                "name": "temple Ginkaku-ji (temple du Pavillon d'argent)",
-                "styleUrl": "#style64",
-                "styleHash": "228571aa",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4216&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4216.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "name": "temple Ginkaku-ji (temple du Pavillon d'argent) en restauration",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005714204709330\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-vnExvi9Qv7Q/SJEo_huo0dI/AAAAAAAACTs/b2nv5KbqtaA/s400/IMG_4216.jpg\" alt=\"IMG_4216.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 1:27 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005714204709330\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -814,16 +580,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.795303,
-                    35.02702,
-                    0
+                    135.7954895,
+                    35.0267808
                 ]
             },
             "properties": {
-                "name": "Tetsugaku no Michi (chemin de la philosophie) - extrémité Nord",
-                "styleUrl": "#style65",
-                "styleHash": "-78fdc3b7",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4223&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4223.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "name": "Tetsugaku no Michi (chemin de la philosophie)",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005776112242626\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-4VjarDtnCcA/SJEpDIWiz8I/AAAAAAAACT0/UhF8ISYl2WQ/s400/IMG_4223.jpg\" alt=\"IMG_4223.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 1:49 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005776112242626\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -831,32 +594,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.795654,
-                    35.015491,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Tetsugaku no Michi (chemin de la philosophie) - extrémité Sud",
-                "styleUrl": "#style45",
-                "styleHash": "30c929c7"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.795959,
-                    35.018375,
-                    0
+                    135.7960796,
+                    35.0183813
                 ]
             },
             "properties": {
                 "name": "sanctuaire Otoyo-jinja",
-                "styleUrl": "#style68",
-                "styleHash": "-4b8763da",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4228&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4228.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005823246830114\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-B8Xy3Q68MhI/SJEpF38TiiI/AAAAAAAACT8/3TBjD5P_8Yw/s400/IMG_4228.jpg\" alt=\"IMG_4228.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 2:22 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005823246830114\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -864,16 +608,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.796204,
-                    35.015656,
-                    0
+                    135.7962673,
+                    35.015675
                 ]
             },
             "properties": {
                 "name": "sanctuaire Kumano Nyakuoji Jinja",
-                "styleUrl": "#style49",
-                "styleHash": "-3d43abbd",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4235&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4235.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005871726362514\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-Nwfdr_oQ6Qw/SJEpIsiuf5I/AAAAAAAACUE/-hVx68H2pX4/s400/IMG_4235.jpg\" alt=\"IMG_4235.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 2:39 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005871726362514\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -881,320 +622,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.769577,
-                    35.003536,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Hankyu department store",
-                "styleUrl": "#style25",
-                "styleHash": "-256fe8bb"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.761871,
-                    35.003899,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Daimaru department store",
-                "styleUrl": "#style27",
-                "styleHash": "-5c76537d"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.763596,
-                    35.003952,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "rue couverte commerciale du marché Nishiki (Nishiki Ichiba)",
-                "styleUrl": "#style56",
-                "styleHash": "-3f9d8259",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4268&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4268.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.828369,
-                    34.684315,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "gare de Nara",
-                "styleUrl": "#style14",
-                "styleHash": "4af6c365",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4277&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4277.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.831757,
-                    34.6828,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "temple Kofuku-ji",
-                "styleUrl": "#style80",
-                "styleHash": "-1934a650",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4282&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4282.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.840973,
-                    34.684067,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "parc de Nara",
-                "styleUrl": "#style24",
-                "styleHash": "76134ca6",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4299&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4299.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.839935,
-                    34.68586,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "temple Todai-ji: porte Nandaimon (Grande porte du Sud)",
-                "styleUrl": "#style4",
-                "styleHash": "-7ed28822",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4305&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4305.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.840103,
-                    34.688576,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "temple Todai-ji: Daibutsuden",
-                "styleUrl": "#style59",
-                "styleHash": "-1227227c",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4312&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4312.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.838837,
-                    34.69178,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Shoso-in (grenier ou étaient entreposés plus de 3000 objets de l'empereur)",
-                "styleUrl": "#style67",
-                "styleHash": "4ffbd187",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4353&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4353.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.843979,
-                    34.68943,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "temple Nigatsu-do Hall",
-                "styleUrl": "#style7",
-                "styleHash": "-515c2845",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4376&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4376.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.844131,
-                    34.688103,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "sanctuaire Tamuke-yama",
-                "styleUrl": "#style37",
-                "styleHash": "-3159ca3c",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4383&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4383.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.848465,
-                    34.681137,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "sanctuaire Kasuga Taisha",
-                "styleUrl": "#style22",
-                "styleHash": "-52e64898",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4402&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4402.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.82872,
-                    34.683315,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "rue couverte commerciale à proximité de la gare de Nara",
-                "styleUrl": "#style8",
-                "styleHash": "1320a25a",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-nara&amp;image=IMG_4435&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-nara%252F&amp;image=IMG_4435.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.772781,
-                    34.967369,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "entrée du sanctuaire Fushimi Inari Taisha",
-                "styleUrl": "#style73",
-                "styleHash": "-16dacfb4",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4441&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4441.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.775452,
-                    34.966553,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "première étape du Fushimi Inari Taisha",
-                "styleUrl": "#style28",
-                "styleHash": "8067722",
-                "description": "<DIV><IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4468&amp;size=mini\">\n<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4473&amp;size=mini\">\n<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4510&amp;size=mini\">\n</DIV>\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4468.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4473.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4510.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.776428,
-                    34.967514,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "petits temples hors sentier du Fushimi Inari Taisha",
-                "styleUrl": "#style15",
-                "styleHash": "-508c71fc",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4484&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4484.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.778549,
-                    34.968346,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Kumataka-sha du Fushimi Inari Taisha",
-                "styleUrl": "#style53",
-                "styleHash": "-6d13e236",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4495&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4495.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.752869,
-                    35.06015,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "sanctuaire Kamigamo",
-                "styleUrl": "#style21",
-                "styleHash": "489cecc9",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4525&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4525.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    135.792786,
-                    35.011303,
-                    0
+                    135.7927,
+                    35.0114704
                 ]
             },
             "properties": {
                 "name": "temple Nanzen-ji: porte San-Mon",
-                "styleUrl": "#style10",
-                "styleHash": "-46fc6717",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4239&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4239.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229381702074655362\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-IllVksQAMc8/SJJ-85sWYoI/AAAAAAAACfo/MbxLKOsir4o/s400/IMG_4239.jpg\" alt=\"IMG_4239.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 3:30 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229381702074655362\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1202,16 +636,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.79361,
-                    35.011272,
-                    0
+                    135.7936145,
+                    35.0112852
                 ]
             },
             "properties": {
                 "name": "temple Nanzen-ji: Hatto",
-                "styleUrl": "#style62",
-                "styleHash": "598bdc6c",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4244&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4244.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005914968655682\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-WK_VXLUaFHc/SJEpLNofh0I/AAAAAAAACUM/TK-th3VVYjw/s400/IMG_4244.jpg\" alt=\"IMG_4244.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 3:32 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005914968655682\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1219,16 +650,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.794281,
-                    35.010632,
-                    0
+                    135.7942207,
+                    35.0106262
                 ]
             },
             "properties": {
                 "name": "Suirokaku, aqueduc (Sosui) venant du lac Biwa à 20 kilomètres de Kyoto",
-                "styleUrl": "#style77",
-                "styleHash": "7b185ac8",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4249&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4249.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005951328301650\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-6-pifLfyFAU/SJEpNVFTslI/AAAAAAAACUU/1dsxdG9JnPc/s400/IMG_4249.jpg\" alt=\"IMG_4249.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 3:37 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005951328301650\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1236,16 +664,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.794342,
-                    35.010983,
-                    0
+                    135.7944031,
+                    35.0116675
                 ]
             },
             "properties": {
                 "name": "temple Nanzen-ji: Saisho-in",
-                "styleUrl": "#style12",
-                "styleHash": "-7e02d1d9",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4254&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4254.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229381754735298834\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-jJxyo14bIlw/SJJ-_93oCRI/AAAAAAAACf0/vURiZRc_ezw/s400/IMG_4254.jpg\" alt=\"IMG_4254.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 3:42 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229381754735298834\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1253,16 +678,279 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.793121,
-                    35.010818,
-                    0
+                    135.768855,
+                    35.0083716
+                ]
+            },
+            "properties": {
+                "name": "Karafune: restaurant de sundaes immenses sur Kawaramachi, les trois plus gros coutant 5000, 8500 et 10000 yens !!!",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005984406870754\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-5LNSyQsHJEk/SJEpPQT2muI/AAAAAAAACUg/BFrJtqR-AcA/s400/IMG_4265.jpg\" alt=\"IMG_4265.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 23, 2008, 9:03 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229005984406870754\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7632708,
+                    35.0039788
+                ]
+            },
+            "properties": {
+                "name": "rue couverte commerciale du marché Nishiki (Nishiki Ichiba)",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006017795374834\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-JsFy3jw5_b0/SJEpRMsSvvI/AAAAAAAACUo/P2WuSRtrHvc/s400/IMG_4268.jpg\" alt=\"IMG_4268.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 24, 2008, 2:44 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006017795374834\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8302374,
+                    34.684516
+                ]
+            },
+            "properties": {
+                "name": "Quelques uns des 1200 cerfs Sika en liberté de Nara",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006063650669618\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-yXZnzoKZ20Y/SJEpT3hDBDI/AAAAAAAACUw/uUmUDrasjcM/s400/IMG_4277.jpg\" alt=\"IMG_4277.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 25, 2008, 11:53 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006063650669618\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8317796,
+                    34.6832097
+                ]
+            },
+            "properties": {
+                "name": "temple Kofuku-ji",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006097468906914\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-62W6p6CGiU8/SJEpV1f8XaI/AAAAAAAACU4/e7OWa6UrKw8/s400/IMG_4282.jpg\" alt=\"IMG_4282.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 25, 2008, 11:56 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006097468906914\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8415536,
+                    34.6849742
+                ]
+            },
+            "properties": {
+                "name": "parc de Nara",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006138079325650\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-DDPFFc3pzTU/SJEpYMyOLdI/AAAAAAAACVA/phyr_YEFepY/s400/IMG_4299.jpg\" alt=\"IMG_4299.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 26, 2008, 12:27 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006138079325650\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8395743,
+                    34.6882924
+                ]
+            },
+            "properties": {
+                "name": "temple Todai-ji: Daibutsuden",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006201733340610\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-ddW6y_4GLeA/SJEpb56hXcI/AAAAAAAACVQ/lEQmEpCkgyk/s400/IMG_4312.jpg\" alt=\"IMG_4312.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 26, 2008, 12:41 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006201733340610\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8387883,
+                    34.6920146
+                ]
+            },
+            "properties": {
+                "name": "Shoso-in (grenier ou étaient entreposés plus de 3000 objets de l'empereur)",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006231831385026\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-xA8OEOMJ0NQ/SJEpdqCdE8I/AAAAAAAACVY/Qu4E0U77BmQ/s400/IMG_4353.jpg\" alt=\"IMG_4353.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 26, 2008, 1:22 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006231831385026\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8438362,
+                    34.6892976
+                ]
+            },
+            "properties": {
+                "name": "temple Nigatsu-do Hall",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006272101466658\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-XuuP02MWPpo/SJEpgADlwiI/AAAAAAAACVg/6vRjHMsTYX4/s400/IMG_4376.jpg\" alt=\"IMG_4376.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 26, 2008, 2:03 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006272101466658\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8441366,
+                    34.6881331
+                ]
+            },
+            "properties": {
+                "name": "sanctuaire Tamuke-yama",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006306686514754\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-mA9JLAvM6Us/SJEpiA5TtkI/AAAAAAAACVs/u0nmzegrH7s/s400/IMG_4383.jpg\" alt=\"IMG_4383.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 26, 2008, 2:06 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006306686514754\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8484522,
+                    34.6810923
+                ]
+            },
+            "properties": {
+                "name": "sanctuaire Kasuga Taisha",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006344166414562\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-OtItRENWLcE/SJEpkMhNmOI/AAAAAAAACV0/eHasHEXFMFI/s400/IMG_4402.jpg\" alt=\"IMG_4402.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 26, 2008, 2:47 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006344166414562\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8287219,
+                    34.6824245
+                ]
+            },
+            "properties": {
+                "name": "rue couverte commerciale à proximité de la gare de Nara",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229383118817916370\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-QvLfzvkM60A/SJKAPXeQ9dI/AAAAAAAAChg/6AMlUVELscI/s400/IMG_4435.jpg\" alt=\"IMG_4435.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 26, 2008, 4:08 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229383118817916370\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.772173,
+                    34.9671521
+                ]
+            },
+            "properties": {
+                "name": "entrée du sanctuaire Fushimi Inari Taisha",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229384916436334594\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-5C8GLlW0fZY/SJKB4AH5OAI/AAAAAAAACi4/9MV5HFprvb8/s400/IMG_4441.jpg\" alt=\"IMG_4441.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 12:06 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229384916436334594\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7754532,
+                    34.9665493
+                ]
+            },
+            "properties": {
+                "name": "première étape du Fushimi Inari Taisha",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229384958228145266\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-HI30fJ-QliE/SJKB6bz1pHI/AAAAAAAACjA/cdrGplnC-Vk/s400/IMG_4468.jpg\" alt=\"IMG_4468.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 12:21 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229384958228145266\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7754532,
+                    34.9665493
+                ]
+            },
+            "properties": {
+                "name": "première étape du Fushimi Inari Taisha",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229384885229743938\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh5.googleusercontent.com/-735SRGkldgU/SJKB2L3qb0I/AAAAAAAACiw/WAVhi0Qhejg/s400/IMG_4473.jpg\" alt=\"IMG_4473.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 12:31 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229384885229743938\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7762793,
+                    34.9675868
+                ]
+            },
+            "properties": {
+                "name": "Torii du Fushimi Inari Taisha",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229385050970474978\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-VTkOLqLQeVo/SJKB_1TVSeI/AAAAAAAACjQ/K7yFFgk0aRY/s400/IMG_4484.jpg\" alt=\"IMG_4484.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 12:38 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229385050970474978\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7783607,
+                    34.9683868
+                ]
+            },
+            "properties": {
+                "name": "escalier menant au Kumataka-sha du Fushimi Inari Taisha",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229384990164245890\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-5pNRYE0Ezjg/SJKB8Sx_3YI/AAAAAAAACjI/a_C0NCLIOP4/s400/IMG_4495.jpg\" alt=\"IMG_4495.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 12:49 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229384990164245890\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7754238,
+                    34.9665719
+                ]
+            },
+            "properties": {
+                "name": "première étape du Fushimi Inari Taisha",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006417638254018\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-CdXe3LIwskU/SJEpoeOQ5cI/AAAAAAAACWE/ibRTp0p-cY0/s400/IMG_4510.jpg\" alt=\"IMG_4510.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 1:04 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006417638254018\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7706682,
+                    34.9669801
+                ]
+            },
+            "properties": {
+                "name": "plan du train JR West (incluant Kyoto, Osaka et Nara)",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229381672129467474\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-QcN3jcshNS0/SJJ-7KI3FFI/AAAAAAAACfg/9zkYefbM_I0/s400/IMG_4517.jpg\" alt=\"IMG_4517.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 1:18 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229381672129467474\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7525902,
+                    35.0598785
+                ]
+            },
+            "properties": {
+                "name": "sanctuaire Kamigamo",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006456954764674\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-T8OBVYeerFM/SJEpqwsDPYI/AAAAAAAACWM/GcW0JFFfxXI/s400/IMG_4525.jpg\" alt=\"IMG_4525.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 3:03 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006456954764674\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.7931639,
+                    35.0108063
                 ]
             },
             "properties": {
                 "name": "jardin Ten Juan",
-                "styleUrl": "#style26",
-                "styleHash": "3f0ce1e4",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4575&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4575.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006508403428146\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-HQMTeHPX-Ik/SJEptwWXizI/AAAAAAAACWU/22j1kqyjCt4/s400/IMG_4575.jpg\" alt=\"IMG_4575.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 27, 2008, 11:40 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006508403428146\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1270,16 +958,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.748825,
-                    35.013954,
-                    0
+                    135.7502031,
+                    35.0133025
                 ]
             },
             "properties": {
                 "name": "château Nijo-jo",
-                "styleUrl": "#style71",
-                "styleHash": "202b9b0e",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4594&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4594.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006542566315906\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-e2IqbVbT8EA/SJEpvvnb14I/AAAAAAAACWc/5FjJDzBiIoA/s400/IMG_4594.jpg\" alt=\"IMG_4594.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 28, 2008, 1:36 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006542566315906\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1287,16 +972,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.763458,
-                    35.025146,
-                    0
+                    135.762283,
+                    35.0274614
                 ]
             },
             "properties": {
-                "name": "palais impérial et son jardin",
-                "styleUrl": "#style74",
-                "styleHash": "4da1faeb",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4630&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4630.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "name": "entrée nord de l'enceinte du palais impérial, vu de son jardin",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229575960659449506\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh3.googleusercontent.com/-hdcRDxgJGi4/SJMvoPUHVqI/AAAAAAAACnk/A5CQ1IEOfa8/s400/IMG_4630.jpg\" alt=\"IMG_4630.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 28, 2008, 3:18 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229575960659449506\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1304,16 +986,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.76886,
-                    35.00845,
-                    0
+                    135.7671707,
+                    35.0048093
                 ]
             },
             "properties": {
-                "name": "Karafune: restaurant de sundaes immenses sur Kawaramachi",
-                "styleUrl": "#style58",
-                "styleHash": "-76a3ed1b",
-                "description": "<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-kyoto&amp;image=IMG_4265&amp;size=mini\">\n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-kyoto%252F&amp;image=IMG_4265.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>&nbsp;</div>\n"
+                "name": "KFC de la rue couverte commerciale Teramachi",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006575885273922\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-gqApyuEsewc/SJEpxrvSy0I/AAAAAAAACWk/YidG7J45U6E/s400/IMG_4643.jpg\" alt=\"IMG_4643.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 28, 2008, 6:45 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006575885273922\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1321,16 +1000,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.489578,
-                    34.698193,
-                    0
+                    135.4959297,
+                    34.7017933
                 ]
             },
             "properties": {
-                "name": "édifice traversé par une autoroute",
-                "styleUrl": "#style60",
-                "styleHash": "-6f6db8d2",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-osaka&amp;image=IMG_4664&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-osaka%252F&amp;image=IMG_4664.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>"
+                "name": "gare d'Osaka et hôtel Granvia Osaka",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006610423358210\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-UdKJcQ9rXL8/SJEpzsZ0IwI/AAAAAAAACWw/9RXsRV7jJ8Y/s400/IMG_4663.jpg\" alt=\"IMG_4663.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 30, 2008, 2:55 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006610423358210\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         },
         {
@@ -1338,16 +1014,41 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    135.490021,
-                    34.705502,
-                    0
+                    135.4895405,
+                    34.6981624
+                ]
+            },
+            "properties": {
+                "name": "l'autoroute traverse cet immeuble !",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006660961490722\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-4Ke3fNGaAOY/SJEp2orC1yI/AAAAAAAACW4/5bxZXnz_8kw/s400/IMG_4664.jpg\" alt=\"IMG_4664.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 30, 2008, 2:55 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006660961490722\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4900234,
+                    34.7055
                 ]
             },
             "properties": {
                 "name": "Udema Sky Building",
-                "styleUrl": "#style41",
-                "styleHash": "-612a00b5",
-                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=japon2008-osaka&amp;image=IMG_4694&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fjapon2008-osaka%252F&amp;image=IMG_4694.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>&nbsp;</DIV>\n"
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006696414586802\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh6.googleusercontent.com/-NI-vwiyxDEY/SJEp4svuJ7I/AAAAAAAACXA/4AeAEje94no/s400/IMG_4694.jpg\" alt=\"IMG_4694.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 30, 2008, 10:15 PM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006696414586802\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2605819,
+                    34.4390531
+                ]
+            },
+            "properties": {
+                "name": "aéroport international du Kansai (Osaka), et le Rinku Gate Tower Building de 56 étages (2e plus haut immeuble du Japon)",
+                "description": "<table><tr><td style=\"padding: 0 5px\"><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006715199643490\"><img style=\"border:1px solid #5C7FB9\" src=\"https://lh4.googleusercontent.com/-opi9TngWvRk/SJEp5yubX2I/AAAAAAAACXI/_gcQpEZ_-RM/s400/IMG_4697.jpg\" alt=\"IMG_4697.jpg\"/></a></td><td valign=\"top\"><font color=\"#6B6B6B\">Date: </font><font color=\"#333333\">May 31, 2008, 3:05 AM</font><br/><font color=\\\"#6B6B6B\\\">Number of Comments on Photo:</font><font color=\\\"#333333\\\">0</font><br/><p><a href=\"https://picasaweb.google.com/110906932027965640339/Japon2008KyotoOsakaNara#5229006715199643490\"><font color=\"#3964C2\">View Photo</font></a></p></td></tr></table>"
             }
         }
     ]
