@@ -1,0 +1,889 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.331836,
+                    48.856552,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hôtel Rive Gauche",
+                "styleUrl": "#style13",
+                "styleHash": "-6cee1c1",
+                "description": "25, Rue Saints Pères<br>75006 Paris, France<br>01 42 60 34 68<br><a href=\"/maps?f=q&amp;hl=en&amp;q=hotel+rive+gauche,+paris&amp;sll=48.856975,2.333592&amp;sspn=0.002524,0.004989&amp;ie=UTF8&amp;latlng=48856551,2331836,13833308419969046561&amp;ei=PLBHRtupK6KKrQLFqITzDw&amp;cd=1&amp;dtab=5\" target=\"_blank\"><img src=\"http://www.google.com/base_image?q=maps:www.booking.com/images/hotel/org/524/524066.jpg&amp;size=2&amp;hl=en\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.348866,
+                    48.853329,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parvis Notre-Dame de Paris",
+                "styleUrl": "#style25",
+                "styleHash": "74adb3e0",
+                "description": "<img src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1493&amp;size=mini\"> \n<div>&nbsp;</div>\n<div><a href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1493.jpg\" target=\"_blank\">Album photo - Picture gallery</a></div>\n<div>(3): IMG_1492 - IMG_1494</div>\n<div>&nbsp;</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.348993,
+                    48.858128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tour Saint-Jacques",
+                "styleUrl": "#style23",
+                "styleHash": "5dade8de",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1495&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1495.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(3): IMG_1495 + IMG_1499 + IMG_1500</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.341997,
+                    48.856766,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Place Dauphine",
+                "styleUrl": "#style29",
+                "styleHash": "-5d52b61c",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1503&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1503.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(2): IMG_1502 + IMG_1503</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.340504,
+                    48.857327,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Square du Vert Galant",
+                "styleUrl": "#style48",
+                "styleHash": "6026f9a1",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1505&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1505.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(8): IMG_1505 + IMG_1513</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.334465,
+                    48.853931,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Église St-Germain-des-Prés",
+                "styleUrl": "#style41",
+                "styleHash": "fa7b31a",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1521&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1521.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(7): IMG_1521 + IMG_1527</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3008,
+                    48.859161,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Immeuble Lavirotte",
+                "styleUrl": "#style40",
+                "styleHash": "427cd99",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1530&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1530.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(4): IMG_1530 + IMG_1533</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.294512,
+                    48.858273,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tour Eiffel",
+                "styleUrl": "#style26",
+                "styleHash": "-7fd2669f",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1535&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1535.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(33): IMG_1534 - IMG_1590 + IMG_1597</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.288053,
+                    48.862175,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palais de Chaillot",
+                "styleUrl": "#style18",
+                "styleHash": "32b099c4",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1592&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1592.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(10): IMG_1591 - IMG_1601</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.338687,
+                    48.849808,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Odéon",
+                "styleUrl": "#style15",
+                "styleHash": "1030e941",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1602&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1602.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(1): IMG_1602</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.337171,
+                    48.846928,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jardins du Luxembourg",
+                "styleUrl": "#style46",
+                "styleHash": "49272e9f",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1608&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1608.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(11): IMG_1604 - IMG_1614</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.33564,
+                    48.854355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée Eugène Delacroix",
+                "styleUrl": "#style30",
+                "styleHash": "-6054fd06",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1617&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1617.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(4): IMG_1615 - IMG_1618</DIV>\n<DIV>&nbsp;</DIV>\n<DIV>6 Rue de Furstemberg</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.337553,
+                    48.851749,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moosehead",
+                "styleUrl": "#style7",
+                "styleHash": "7b850caa",
+                "description": "16 Rue des Quatre-Vents<BR>75006 Paris, France<BR><A href=\"http://www.mooseheadparis.com/\" target=\"_blank\">http://www.mooseheadparis.com/</A>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699059,
+                    48.402096,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Château de Fontainebleau",
+                "styleUrl": "#style44",
+                "styleHash": "3227639d",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-chateau&amp;image=IMG_1622&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-chateau%252F&amp;image=IMG_1622.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(76): IMG_1622 - IMG_1708</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.606111,
+                    48.44524,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barbizon",
+                "styleUrl": "#style49",
+                "styleHash": "6ba6df22",
+                "description": "<BR><BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.566873,
+                    48.435215,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saint-Martin-en-Bière",
+                "styleUrl": "#style14",
+                "styleHash": "4b103c0",
+                "description": "<BR><BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.31584,
+                    48.85545,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée Rodin",
+                "styleUrl": "#style28",
+                "styleHash": "-68d29b9d",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-classique&amp;image=IMG_1712&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-classique%252F&amp;image=IMG_1712.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(110): IMG_1710 - IMG_1829</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.312965,
+                    48.866055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grand Palais",
+                "styleUrl": "#style22",
+                "styleHash": "522e035d",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-mairie&amp;image=IMG_1830&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-mairie%252F&amp;image=IMG_1830.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(18): IMG_1830 - IMG_1847</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.31408,
+                    48.866013,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Petit Palais",
+                "styleUrl": "#style24",
+                "styleHash": "692dce5f",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-mairie&amp;image=IMG_1848&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-mairie%252F&amp;image=IMG_1848.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(89): IMG_1848 - IMG_1949</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.320905,
+                    48.865517,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Place de la Concorde",
+                "styleUrl": "#style45",
+                "styleHash": "3da7491e",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1950&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1950.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(12): IMG_1950 - IMG_1960 + IMG_1962</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.324047,
+                    48.869572,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Église de la Madeleine",
+                "styleUrl": "#style2",
+                "styleHash": "42059125",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1964&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1964.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(4): IMG_1487 + IMG_1961 + IMG_1964 + IMG_1965</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.327363,
+                    48.856205,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Église Saint-Thomas d'Aquin",
+                "styleUrl": "#style19",
+                "styleHash": "3e307f45",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_1966&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_1966.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(2): IMG_1966 - IMG_1967</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.351846,
+                    48.860748,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Centre Georges-Pompidou",
+                "styleUrl": "#style31",
+                "styleHash": "-54d51785",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-contemporain&amp;image=IMG_1968&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-contemporain%252F&amp;image=IMG_1968.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(108): IMG_1968 - IMG_2117</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.365574,
+                    48.855778,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Place des Vosges",
+                "styleUrl": "#style1",
+                "styleHash": "3685aba4",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2126&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2126.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(10): IMG_2121 - IMG_2130</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.364044,
+                    48.855,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hôtel Sully",
+                "styleUrl": "#style43",
+                "styleHash": "26a77e1c",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2131&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2131.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(6): IMG_2131 - IMG_2136</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.362306,
+                    48.859707,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hôtel Salé",
+                "styleUrl": "#style4",
+                "styleHash": "59055c27",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2138&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2138.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(2): IMG_2137 - IMG_2138</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.369107,
+                    48.853191,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bastille",
+                "styleUrl": "#style37",
+                "styleHash": "-fd5b67f",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2139&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2139.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(10): IMG_2139 - IMG_2148</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.237026,
+                    48.892506,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arche de la Défense",
+                "styleUrl": "#style3",
+                "styleHash": "4d8576a6",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2155&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2155.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(14): IMG_2149 - IMG_2162</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.332003,
+                    48.871353,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Opéra Garnier",
+                "styleUrl": "#style10",
+                "styleHash": "-294e9244",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2171&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2171.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(8): IMG_2164 - IMG_2171</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.329466,
+                    48.867527,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Place Vendôme",
+                "styleUrl": "#style42",
+                "styleHash": "1b27989b",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2174&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2174.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(10): IMG_2174 - IMG_2183</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.362204,
+                    48.857273,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée Carnavalet",
+                "styleUrl": "#style11",
+                "styleHash": "-1dceacc3",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-mairie&amp;image=IMG_2184&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-mairie%252F&amp;image=IMG_2184.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(160): IMG_2184 - IMG_2424</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.36154,
+                    48.854843,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Église St-Paul - St-Louis",
+                "styleUrl": "#style32",
+                "styleHash": "-49553204",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2427&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2427.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(2): IMG_2426 - IMG_2427</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.324702,
+                    48.860889,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hôtel de Salm",
+                "styleUrl": "#style47",
+                "styleHash": "54a71420",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2441&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2441.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(2): IMG_2441 - IMG_2442</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.324686,
+                    48.861839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Passerelle Solférino",
+                "styleUrl": "#style12",
+                "styleHash": "-124ec742",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2446&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2446.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(6): IMG_2443 - IMG_2446 + IMG_2455 - IMG_2456</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.321978,
+                    48.863953,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée de l'Orangerie",
+                "styleUrl": "#style35",
+                "styleHash": "-26d58181",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2447&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2447.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(3): IMG_2447 - IMG_2449</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.325448,
+                    48.860275,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée d'Orsay",
+                "styleUrl": "#style21",
+                "styleHash": "46ae1ddc",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-classique&amp;image=IMG_2438&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-classique%252F&amp;image=IMG_2438.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(56): IMG_2437 - IMG_2535</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.296999,
+                    48.86454,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palais de Tokyo",
+                "styleUrl": "#style38",
+                "styleHash": "-455d0fe",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-contemporain&amp;image=IMG_2541&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-contemporain%252F&amp;image=IMG_2541.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(32): IMG_2541 - IMG_2600</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.293749,
+                    48.864777,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Place d'Iéna",
+                "styleUrl": "#style8",
+                "styleHash": "-78fb0dd5",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2539&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2539.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(3): IMG_2539 + IMG_2540 + IMG_2601</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.34803,
+                    48.860691,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fontaine des Innocents",
+                "styleUrl": "#style27",
+                "styleHash": "-7452811e",
+                "description": "<BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.119953,
+                    48.804928,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Château de Versailles ",
+                "styleUrl": "#style16",
+                "styleHash": "1bb0cec2",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-chateau&amp;image=IMG_2604&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-chateau%252F&amp;image=IMG_2604.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(217): IMG_2604 - IMG_2857</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.109547,
+                    48.81588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Petit Trianon",
+                "styleUrl": "#style51",
+                "styleHash": "74247db9",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-chateau&amp;image=IMG_2743&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-chateau%252F&amp;image=IMG_2743.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(38): IMG_2743 - IMG_2785</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.104483,
+                    48.814678,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grand Trianon",
+                "styleUrl": "#style5",
+                "styleHash": "648541a8",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-chateau&amp;image=IMG_2787&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-chateau%252F&amp;image=IMG_2787.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(31): IMG_2786 - IMG_2816</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.310491,
+                    48.875622,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée Jacquemart-André",
+                "styleUrl": "#style17",
+                "styleHash": "2730b443",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2865&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2865.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(8): IMG_2858 - IMG_2867</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.30921,
+                    48.879436,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parc Monceau",
+                "styleUrl": "#style36",
+                "styleHash": "-1b559c00",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2869&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2869.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(5): IMG_2868 - IMG_2872</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.407614,
+                    48.835133,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Porte Dorée",
+                "styleUrl": "#style50",
+                "styleHash": "68a49838",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2873&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2873.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(1): IMG_2873</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.410727,
+                    48.830784,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bois de Vincennes",
+                "styleUrl": "#style52",
+                "styleHash": "7fa4633a",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_2874&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_2874.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(2): IMG_2874 - IMG_2875</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.337169,
+                    48.86068,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée du Louvre",
+                "styleUrl": "#style33",
+                "styleHash": "-3dd54c83",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-classique&amp;image=IMG_2537&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-classique%252F&amp;image=IMG_2537.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(113): IMG_2876 - IMG_3110</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.332346,
+                    48.884079,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moulin Rouge",
+                "styleUrl": "#style39",
+                "styleHash": "72a1483",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_3112&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_3112.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(1): IMG_3112</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.333744,
+                    48.884853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafe Des Deux Moulins",
+                "styleUrl": "#style34",
+                "styleHash": "-32556702",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_3113&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_3113.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(1): IMG_3113</DIV>\n<DIV>&nbsp;</DIV>\n<DIV>15 Rue Lepic</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.33844,
+                    48.885601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marché de la Butte",
+                "styleUrl": "#style9",
+                "styleHash": "-6d7b2854",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_3115&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_3115.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(2): IMG_3115 - IMG_3116</DIV>\n<DIV>&nbsp;</DIV>\n<DIV>56 Rue des Trois Frères</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.33869,
+                    48.884853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Métro des Abbesses",
+                "styleUrl": "#style6",
+                "styleHash": "70052729",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2007-city&amp;image=IMG_3118&amp;size=mini\"> \n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2007-city%252F&amp;image=IMG_3118.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(1): IMG_3118</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.354572,
+                    48.857815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chez Tsou",
+                "styleUrl": "#style20",
+                "styleHash": "3b2e385b",
+                "description": "16, Rue Archives<br>75004 Paris, France<br>01 42 78 11 47<br>"
+            }
+        }
+    ]
+}
