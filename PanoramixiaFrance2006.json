@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.558265,
+                    49.003922,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aéroport Charles de Gaulle",
+                "styleUrl": "#style12",
+                "styleHash": "-124ec742",
+                "description": "<BR><BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.354986,
+                    48.880581,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gare du Nord",
+                "styleUrl": "#style9",
+                "styleHash": "-6d7b2854",
+                "description": "<BR><BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.37393,
+                    48.844715,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gare de Lyon",
+                "styleUrl": "#style8",
+                "styleHash": "-78fb0dd5",
+                "description": "<BR><BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.518219,
+                    48.971821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parc d'Expositions de Paris-Nord",
+                "styleUrl": "#style7",
+                "styleHash": "7b850caa",
+                "description": "<DIV>Japan Expo</DIV><BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.316591,
+                    48.838013,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gare Montparnasse",
+                "styleUrl": "#style4",
+                "styleHash": "59055c27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.516433,
+                    48.467834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lamballe",
+                "styleUrl": "#style3",
+                "styleHash": "4d8576a6",
+                "description": "<BR><BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.404128,
+                    48.626377,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plurien",
+                "styleUrl": "#style10",
+                "styleHash": "-294e9244",
+                "description": "<BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.402505,
+                    48.618298,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plurien - La Ruée",
+                "styleUrl": "#style1",
+                "styleHash": "3685aba4",
+                "description": "<BR><BR>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.026089,
+                    48.648178,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saint-Malo",
+                "styleUrl": "#style2",
+                "styleHash": "42059125",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2006-city&amp;image=IMG_1199&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2006-city%252F&amp;image=IMG_1199.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(23): IMG_1197 - IMG_1225</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.365244,
+                    48.6283,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fréhel",
+                "styleUrl": "#style5",
+                "styleHash": "648541a8",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2006-city&amp;image=IMG_1228&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2006-city%252F&amp;image=IMG_1228.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(3): IMG_1227 - IMG_1229</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.408116,
+                    48.639275,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plurien - Sables-d'Or-les-Pins",
+                "styleUrl": "#style11",
+                "styleHash": "-1dceacc3",
+                "description": "<IMG src=\"http://www.panoramixia.com/yappa-ng/showjpggm.php?album=paris2006-city&amp;image=IMG_1236&amp;size=mini\">\n<DIV>&nbsp;</DIV>\n<DIV><A href=\"http://www.panoramixia.com/yappa-ng/index.php?album=%252Fparis2006-city%252F&amp;image=IMG_1236.jpg\" target=\"_blank\">Album photo - Picture gallery</A></DIV>\n<DIV>(6): IMG_1232 - IMG_1238</DIV>\n<DIV>&nbsp;</DIV>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.46425,
+                    48.6287,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Erquy",
+                "styleUrl": "#style6",
+                "styleHash": "70052729",
+                "description": "<BR><BR>"
+            }
+        }
+    ]
+}
